@@ -1,8 +1,8 @@
-<p align="center"> ##  _Oie, sou Karoline Souza mas pode me chamar de Karol!_ 👩‍💻</p>
+<p align="center"> ##  _Oie, sou Karoline Souza mas pode me chamar de Karol!_ 👩‍💻 </p>
 
 _Gamer, Geek apaixonada por tecnologia e gatinhos! Como uma Dev Fullstack, sou a prova viva de que o conhecimento é como um item lendário em um RPG: quanto mais compartilhamos, mais XP ganhamos!_ 🌟🐾
 
-<p align="center"> ## _Tecnologias que utilizo:_ </p>
+<p align="center"> ## _Tecnologias que utilizo:_  </p>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
