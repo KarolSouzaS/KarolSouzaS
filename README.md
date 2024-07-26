@@ -19,7 +19,9 @@ _Gamer, Geek apaixonada por tecnologia e gatinhos! Como uma Dev Fullstack, sou a
   <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div><br/> 
 
-## _Contato:_
+<div align="center">
+  
+## _Contato:_  </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kahsouzasts@gmail.com)
